@@ -141,6 +141,14 @@ span {
     font-size: 1.1rem;
 }
 
+.skill ul li {
+    list-style: none;
+}
+
+.education ul li {
+    list-style: none;
+}
+
 .skill,
 .education {
     flex: 1;
