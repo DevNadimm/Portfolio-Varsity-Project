@@ -148,6 +148,14 @@ span {
     font-size: 1.1rem;
 }
 
+.skill, .education {
+    flex: 1;
+    padding: 20px;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
 .skill ul, .education ul {
     padding-left: 0;
 }
@@ -166,14 +174,6 @@ span {
     background-color: #333;
     border-left: 4px solid #ffffff;
     padding-left: 15px;
-}
-
-.skill, .education {
-    flex: 1;
-    padding: 20px;
-    background-color: #1a1a1a;
-    border-radius: 10px;
-    transition: all 0.5s ease;
 }
 
 .institution, .skill-sector {
