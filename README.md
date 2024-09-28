@@ -1,7 +1,5 @@
 # Portfolio Varsity Project
 
-![My Portfolio](https://i.ibb.co.com/BT6fFt6/My-Portfolio.png)
-
 Welcome to my Portfolio Varsity Project repository! This project showcases my skills and abilities in web development using HTML and CSS.
 
 ## Project Overview
